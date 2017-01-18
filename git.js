@@ -7,3 +7,4 @@ var obj = {
 	isMale:false
 }
 //新加的东西，可以吗？
+//出来了~~~~
