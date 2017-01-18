@@ -6,3 +6,4 @@ var obj = {
 	age:20,
 	isMale:false
 }
+//新加的东西，可以吗？
